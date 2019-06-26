@@ -1,2 +1,0 @@
-# CTCI
-Created with CodeSandbox
